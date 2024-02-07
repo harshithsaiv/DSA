@@ -6,7 +6,6 @@ class Solution {
         LinkedHashMap<Character, Integer> alphabets = new LinkedHashMap<>();
         StringBuilder result = new StringBuilder();
 
-        // Initialize the map with all characters and frequencies set to 0
         for (char ch = 'a'; ch <= 'z'; ch++) {
             alphabets.put(ch, 0);
         }
@@ -18,7 +17,6 @@ class Solution {
             alphabets.put(ch,0);
         }
 
-        // Update the frequencies based on the input string
         int max = 0;
         for (char c : s.toCharArray()) {
             if (alphabets.containsKey(c)) {
@@ -28,7 +26,6 @@ class Solution {
             }
         }
 
-        // Construct the result string
         for (int j = max; j >= 1; j--) {
             for (Map.Entry<Character, Integer> entry : alphabets.entrySet()) {
                 if (entry.getValue() == j) {
