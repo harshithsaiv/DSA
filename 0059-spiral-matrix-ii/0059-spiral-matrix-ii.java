@@ -6,23 +6,28 @@ class Solution {
             
             //Direction 1
             for(int ptr = layer;ptr<n-layer;ptr++){
-                result[layer][ptr] = cnt++;
+                result[layer][ptr] = cnt;
+                cnt++;
             }
             
             // Direction 2
             
             for(int ptr=layer+1;ptr<n-layer;ptr++){
-                result[ptr][n-layer-1] = cnt++;
+                result[ptr][n-layer-1] = cnt;
+                cnt++;
             }
             
             // Direction 3 
-            for(int ptr= layer+1 ;ptr<n-layer;ptr++){
-                result[n-layer-1][n-ptr-1] = cnt++;
+            for(int ptr= n-layer-2 ;ptr>=layer;ptr--){
+                result[n-layer-1][ptr] = cnt;
+                System.out.println(layer+"" +cnt);
+                cnt++;
             }
             
             //Direction 4
-            for(int ptr = layer+1 ; ptr <n-layer-1;ptr++){
-                result[n-ptr-1][layer]= cnt++;
+            for(int ptr = n-layer-2 ; ptr>layer;ptr--){
+                result[ptr][layer]= cnt;
+                cnt++;
             }
         }
         return result;
