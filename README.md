@@ -83,4 +83,20 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
