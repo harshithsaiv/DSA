@@ -103,6 +103,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
+| [0374-guess-number-higher-or-lower](https://github.com/harshithsaiv/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -115,4 +116,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/harshithsaiv/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
