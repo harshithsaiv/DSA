@@ -17,6 +17,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -38,6 +39,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
