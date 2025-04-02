@@ -32,6 +32,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshithsaiv/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Hash Table
 |  |
 | ------- |
