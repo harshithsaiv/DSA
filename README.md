@@ -66,6 +66,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshithsaiv/DSA/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
@@ -199,5 +200,6 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshithsaiv/DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
