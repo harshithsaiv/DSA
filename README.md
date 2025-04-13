@@ -18,6 +18,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
