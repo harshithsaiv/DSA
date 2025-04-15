@@ -124,6 +124,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
@@ -136,6 +137,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
+| [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
@@ -164,6 +166,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
