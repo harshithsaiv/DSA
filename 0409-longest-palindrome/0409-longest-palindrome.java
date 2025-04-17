@@ -1,13 +1,14 @@
 class Solution {
     public int longestPalindrome(String s) {
-        HashMap<Character,Integer> count = new HashMap<>();
+       int [] charCount = new int[100];
         for(char ch : s.toCharArray()){
-            count.put(ch,count.getOrDefault(ch,0)+1);
+            int index = ch-'A';
+            charCount[index]++;
         }
         
         boolean oddCount=false;
         int res =0;
-        for(int val : count.values()){
+        for(int val : charCount){
             if(val%2==0){
                 res+=val;
             }
@@ -16,7 +17,6 @@ class Solution {
                 oddCount = true;
             }
         }
-
         if(oddCount){
             res+=1;
         }
