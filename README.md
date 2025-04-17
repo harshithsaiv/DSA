@@ -28,6 +28,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/harshithsaiv/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -42,6 +43,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -52,6 +54,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
@@ -70,6 +73,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0050-powx-n](https://github.com/harshithsaiv/DSA/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
@@ -152,6 +156,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
 | [0374-guess-number-higher-or-lower](https://github.com/harshithsaiv/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -208,4 +213,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0050-powx-n](https://github.com/harshithsaiv/DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
