@@ -1,6 +1,6 @@
 class Solution {
     public int longestPalindrome(String s) {
-       int [] charCount = new int[100];
+       int [] charCount = new int[58];
         for(char ch : s.toCharArray()){
             int index = ch-'A';
             charCount[index]++;
