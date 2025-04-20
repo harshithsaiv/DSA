@@ -29,7 +29,6 @@ class Solution {
         }
     }
 
-    // Add the last group
     ans.add(new int[]{prev, count});
     return ans;
     }
