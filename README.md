@@ -31,6 +31,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -50,6 +51,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -118,6 +120,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Data Stream
@@ -205,6 +208,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
