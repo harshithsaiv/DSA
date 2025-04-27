@@ -47,6 +47,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshithsaiv/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshithsaiv/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
