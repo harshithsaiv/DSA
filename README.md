@@ -8,6 +8,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
+| [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 ## String
@@ -15,6 +16,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0038-count-and-say](https://github.com/harshithsaiv/DSA/tree/master/0038-count-and-say) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
+| [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -90,6 +92,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0050-powx-n](https://github.com/harshithsaiv/DSA/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
+| [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
