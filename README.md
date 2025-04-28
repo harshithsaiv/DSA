@@ -103,6 +103,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harshithsaiv/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -127,6 +128,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harshithsaiv/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithsaiv/DSA/tree/master/0503-next-greater-element-ii) |
