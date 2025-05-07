@@ -14,6 +14,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/harshithsaiv/DSA/tree/master/0038-count-and-say) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
@@ -56,6 +57,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
@@ -248,6 +250,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Recursion
