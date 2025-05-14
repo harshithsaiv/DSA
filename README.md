@@ -159,6 +159,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/harshithsaiv/DSA/tree/master/2249-count-the-hidden-sequences) |
+| [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 ## Tree
 |  |
 | ------- |
@@ -276,4 +277,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Graph
+|  |
+| ------- |
+| [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 <!---LeetCode Topics End-->
