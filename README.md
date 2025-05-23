@@ -37,6 +37,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithsaiv/DSA/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -65,6 +66,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -78,6 +80,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -255,6 +258,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Recursion
 |  |
@@ -281,4 +285,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
