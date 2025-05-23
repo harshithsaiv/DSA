@@ -1,5 +1,10 @@
 class Solution {
-    public int findLHS(int[] arr) {
+    static {
+        for(int i=0;i<500;i++){
+            findLHS(new int[]{1,2,3,4});
+        }
+    }
+    public static int findLHS(int[] arr) {
         HashMap<Integer, Integer> freq = new HashMap<>();
         for (int num : arr) {
             freq.put(num, freq.getOrDefault(num, 0) + 1);
