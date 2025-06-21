@@ -13,22 +13,34 @@
  *     }
  * }
  */
+ // BFS implementation of Same Tree
 class Solution {
-    private ArrayList<Integer> bfs1 = new ArrayList<>();
-    private ArrayList<Integer> bfs2 = new ArrayList<>();
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        bfs(p,bfs1);
-        bfs(q,bfs2);
-        return bfs1.equals(bfs2);
+        Queue<TreeNode> q1 = new LinkedList<>();
+        Queue<TreeNode> q2 = new LinkedList<>();
+
+        q1.add(p);
+        q2.add(q);
+        while(!q1.isEmpty() && !q2.isEmpty()){
+            TreeNode node1 = q1.poll();
+            TreeNode node2 = q2.poll();
+
+            if(node1==null && node2== null){
+                continue;
+            }
+            if(node1 == null || node2== null || node1.val != node2.val){
+                return false;
+            }
+
+            q1.add(node1.left);
+            q2.add(node2.left);
+
+            q1.add(node1.right);
+            q2.add(node2.right);
+        }
+
+        return q1.isEmpty() && q2.isEmpty();
+
     }
 
-    public void bfs(TreeNode node,ArrayList<Integer> bfsList){
-        if(node==null){
-            bfsList.add(-1000);
-            return;
-        }
-        bfsList.add(node.val);
-        bfs(node.left,bfsList);
-        bfs(node.right,bfsList);
-    }
 }
