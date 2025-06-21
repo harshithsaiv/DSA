@@ -167,6 +167,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -183,6 +184,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
@@ -212,6 +214,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -251,6 +254,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Sliding Window
