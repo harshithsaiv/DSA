@@ -73,6 +73,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sorting
@@ -183,6 +184,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -262,6 +265,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Sliding Window
 |  |
@@ -299,4 +303,5 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 <!---LeetCode Topics End-->
