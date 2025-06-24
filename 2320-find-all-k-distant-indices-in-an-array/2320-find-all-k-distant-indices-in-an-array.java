@@ -9,13 +9,14 @@ class Solution {
         }
 
         Set<Integer> res = new HashSet<>();
-        for(int j:keys){
-            for(int i=0;i<nums.length;i++){
-                if(Math.abs(i-j)<=k){
-                    res.add(i);
-                }
+        for (int j : keys) {
+            int start = Math.max(0, j - k);
+            int end = Math.min(nums.length - 1, j + k);
+            for (int i = start; i <= end; i++) {
+                res.add(i);
             }
         }
+        
         ArrayList<Integer> fres = new ArrayList<>(res);
         Collections.sort(fres);
         System.out.println(res);
