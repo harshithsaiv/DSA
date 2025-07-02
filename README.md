@@ -23,6 +23,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3617-find-the-original-typed-string-i](https://github.com/harshithsaiv/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
 |  |
