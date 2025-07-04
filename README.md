@@ -122,6 +122,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harshithsaiv/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,11 +299,13 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0050-powx-n](https://github.com/harshithsaiv/DSA/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harshithsaiv/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harshithsaiv/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
 |  |
 | ------- |
