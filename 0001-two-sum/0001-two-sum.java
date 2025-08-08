@@ -25,7 +25,6 @@ class Solution {
                 return new int[]{i,map.get(complement)};
             }
         }
-
         return new int[]{};
     }
 }
