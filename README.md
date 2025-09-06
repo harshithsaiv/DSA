@@ -218,6 +218,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshithsaiv/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
+| [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -292,6 +293,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
+| [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -331,6 +333,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 ## Counting
@@ -350,4 +353,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
