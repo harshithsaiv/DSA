@@ -219,6 +219,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0538-convert-bst-to-greater-tree](https://github.com/harshithsaiv/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
+| [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Binary Search Tree
@@ -330,6 +331,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 ## Counting
 |  |
@@ -344,4 +346,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshithsaiv/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
