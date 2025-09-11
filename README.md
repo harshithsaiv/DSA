@@ -195,6 +195,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/harshithsaiv/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
@@ -213,6 +214,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/harshithsaiv/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
@@ -252,6 +254,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/harshithsaiv/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
@@ -293,6 +296,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/harshithsaiv/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
