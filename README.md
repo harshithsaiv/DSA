@@ -36,6 +36,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/harshithsaiv/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/harshithsaiv/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
@@ -72,6 +73,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/harshithsaiv/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
@@ -364,5 +366,6 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshithsaiv/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
