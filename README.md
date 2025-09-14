@@ -38,6 +38,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithsaiv/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/harshithsaiv/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
@@ -218,6 +219,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshithsaiv/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
@@ -294,6 +296,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 ## Breadth-First Search
@@ -302,6 +305,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshithsaiv/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -367,5 +371,6 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshithsaiv/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
