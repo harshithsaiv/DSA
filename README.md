@@ -235,6 +235,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/harshithsaiv/DSA/tree/master/0285-inorder-successor-in-bst) |
+| [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshithsaiv/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
@@ -322,6 +323,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0199-binary-tree-right-side-view](https://github.com/harshithsaiv/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshithsaiv/DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -366,6 +368,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0133-clone-graph](https://github.com/harshithsaiv/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/harshithsaiv/DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
@@ -396,4 +399,5 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/harshithsaiv/DSA/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
