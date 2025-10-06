@@ -24,6 +24,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3617-find-the-original-typed-string-i](https://github.com/harshithsaiv/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
@@ -61,6 +62,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshithsaiv/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/harshithsaiv/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -90,6 +92,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshithsaiv/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
@@ -376,6 +379,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 ## Counting
 |  |
@@ -405,6 +409,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0207-course-schedule](https://github.com/harshithsaiv/DSA/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Geometry
 |  |
 | ------- |
