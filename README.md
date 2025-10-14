@@ -49,6 +49,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
+| [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -255,6 +256,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
@@ -396,6 +398,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/harshithsaiv/DSA/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
@@ -435,6 +438,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0207-course-schedule](https://github.com/harshithsaiv/DSA/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
+| [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Geometry
 |  |
