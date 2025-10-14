@@ -264,6 +264,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [3561-remove-methods-from-project](https://github.com/harshithsaiv/DSA/tree/master/3561-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -356,6 +357,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [3561-remove-methods-from-project](https://github.com/harshithsaiv/DSA/tree/master/3561-remove-methods-from-project) |
 ## Sliding Window
 |  |
 | ------- |
@@ -407,6 +409,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/harshithsaiv/DSA/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
+| [3561-remove-methods-from-project](https://github.com/harshithsaiv/DSA/tree/master/3561-remove-methods-from-project) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Counting
 |  |
