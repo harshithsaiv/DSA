@@ -75,6 +75,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshithsaiv/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3632-button-with-longest-push-time](https://github.com/harshithsaiv/DSA/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshithsaiv/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Math
 |  |
@@ -172,6 +175,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Greedy
 |  |
 | ------- |
@@ -265,6 +269,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [3561-remove-methods-from-project](https://github.com/harshithsaiv/DSA/tree/master/3561-remove-methods-from-project) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -358,6 +363,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [3561-remove-methods-from-project](https://github.com/harshithsaiv/DSA/tree/master/3561-remove-methods-from-project) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -410,6 +416,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/harshithsaiv/DSA/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3561-remove-methods-from-project](https://github.com/harshithsaiv/DSA/tree/master/3561-remove-methods-from-project) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Counting
 |  |
@@ -436,6 +443,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
+| [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
