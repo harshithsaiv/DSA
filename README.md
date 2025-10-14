@@ -402,6 +402,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/harshithsaiv/DSA/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Counting
@@ -443,5 +444,6 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/harshithsaiv/DSA/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
