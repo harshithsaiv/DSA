@@ -131,6 +131,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Math
 |  |
 | ------- |
@@ -400,6 +401,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Counting
 |  |
 | ------- |
@@ -439,4 +441,5 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
