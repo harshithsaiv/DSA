@@ -37,6 +37,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
@@ -391,6 +392,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -480,4 +482,5 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithsaiv/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harshithsaiv/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
