@@ -21,6 +21,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithsaiv/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harshithsaiv/DSA/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -38,6 +39,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
@@ -250,6 +252,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/harshithsaiv/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/harshithsaiv/DSA/tree/master/0112-path-sum) |
@@ -345,6 +348,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -483,4 +487,5 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harshithsaiv/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
