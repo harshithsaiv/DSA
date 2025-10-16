@@ -19,6 +19,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithsaiv/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harshithsaiv/DSA/tree/master/0038-count-and-say) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
@@ -155,6 +156,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/harshithsaiv/DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
@@ -475,4 +477,5 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithsaiv/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
