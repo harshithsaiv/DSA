@@ -33,6 +33,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/harshithsaiv/DSA/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
@@ -478,4 +479,5 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithsaiv/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/harshithsaiv/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
