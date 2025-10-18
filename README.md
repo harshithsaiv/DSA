@@ -432,6 +432,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/harshithsaiv/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1493-frog-position-after-t-seconds](https://github.com/harshithsaiv/DSA/tree/master/1493-frog-position-after-t-seconds) |
+| [1916-find-center-of-star-graph](https://github.com/harshithsaiv/DSA/tree/master/1916-find-center-of-star-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/harshithsaiv/DSA/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
