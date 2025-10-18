@@ -275,6 +275,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/harshithsaiv/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/harshithsaiv/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/harshithsaiv/DSA/tree/master/1493-frog-position-after-t-seconds) |
@@ -370,6 +371,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/harshithsaiv/DSA/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/harshithsaiv/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/harshithsaiv/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -426,6 +428,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1229-shortest-path-with-alternating-colors](https://github.com/harshithsaiv/DSA/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1300-critical-connections-in-a-network](https://github.com/harshithsaiv/DSA/tree/master/1300-critical-connections-in-a-network) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/harshithsaiv/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/harshithsaiv/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1493-frog-position-after-t-seconds](https://github.com/harshithsaiv/DSA/tree/master/1493-frog-position-after-t-seconds) |
@@ -468,6 +471,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0207-course-schedule](https://github.com/harshithsaiv/DSA/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
 | [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/harshithsaiv/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/harshithsaiv/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Geometry
