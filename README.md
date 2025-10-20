@@ -27,6 +27,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3617-find-the-original-typed-string-i](https://github.com/harshithsaiv/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
@@ -66,6 +67,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshithsaiv/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -199,6 +201,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
