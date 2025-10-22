@@ -22,6 +22,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harshithsaiv/DSA/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
+| [0383-ransom-note](https://github.com/harshithsaiv/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -95,6 +96,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0133-clone-graph](https://github.com/harshithsaiv/DSA/tree/master/0133-clone-graph) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/harshithsaiv/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -446,6 +448,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/harshithsaiv/DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Bitmask
