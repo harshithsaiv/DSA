@@ -63,6 +63,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
+| [0907-koko-eating-bananas](https://github.com/harshithsaiv/DSA/tree/master/0907-koko-eating-bananas) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -316,6 +317,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0538-convert-bst-to-greater-tree](https://github.com/harshithsaiv/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0907-koko-eating-bananas](https://github.com/harshithsaiv/DSA/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
