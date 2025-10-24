@@ -14,6 +14,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 ## String
 |  |
@@ -80,6 +81,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2249-count-the-hidden-sequences](https://github.com/harshithsaiv/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
@@ -134,6 +136,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshithsaiv/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
@@ -315,6 +318,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
 ## Binary Tree
 |  |
