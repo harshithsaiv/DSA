@@ -167,6 +167,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/harshithsaiv/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
