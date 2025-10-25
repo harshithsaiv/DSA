@@ -23,6 +23,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithsaiv/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/harshithsaiv/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/harshithsaiv/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/harshithsaiv/DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/harshithsaiv/DSA/tree/master/0383-ransom-note) |
@@ -41,6 +42,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/harshithsaiv/DSA/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/harshithsaiv/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
@@ -98,6 +100,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0001-two-sum](https://github.com/harshithsaiv/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithsaiv/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/harshithsaiv/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/harshithsaiv/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/harshithsaiv/DSA/tree/master/0133-clone-graph) |
@@ -124,6 +127,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harshithsaiv/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
