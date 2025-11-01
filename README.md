@@ -63,6 +63,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0503-next-greater-element-ii](https://github.com/harshithsaiv/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithsaiv/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
@@ -154,6 +155,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -385,6 +387,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 ## Breadth-First Search
@@ -398,6 +401,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0207-course-schedule](https://github.com/harshithsaiv/DSA/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/harshithsaiv/DSA/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
