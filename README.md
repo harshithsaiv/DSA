@@ -92,6 +92,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshithsaiv/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3632-button-with-longest-push-time](https://github.com/harshithsaiv/DSA/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshithsaiv/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
@@ -124,6 +125,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Sorting
@@ -483,6 +485,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshithsaiv/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/harshithsaiv/DSA/tree/master/0141-linked-list-cycle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Biconnected Component
 |  |
 | ------- |
