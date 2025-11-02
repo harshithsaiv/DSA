@@ -88,6 +88,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2249-count-the-hidden-sequences](https://github.com/harshithsaiv/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -229,6 +230,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshithsaiv/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -390,6 +392,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
