@@ -31,6 +31,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0500-keyboard-row](https://github.com/harshithsaiv/DSA/tree/master/0500-keyboard-row) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0935-orderly-queue](https://github.com/harshithsaiv/DSA/tree/master/0935-orderly-queue) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -154,6 +155,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0935-orderly-queue](https://github.com/harshithsaiv/DSA/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -192,6 +194,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
+| [0935-orderly-queue](https://github.com/harshithsaiv/DSA/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/harshithsaiv/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
