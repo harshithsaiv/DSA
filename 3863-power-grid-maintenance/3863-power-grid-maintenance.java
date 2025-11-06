@@ -1,62 +1,73 @@
-class Solution {
+import java.util.*;
 
-    static class DSU {
-        int[] p, r;
-        DSU(int n){ p=new int[n+1]; r=new int[n+1];
-            for(int i=1;i<=n;i++) p[i]=i; }
-        int find(int x){ return p[x]==x? x : (p[x]=find(p[x])); }
-        void union(int a,int b){
-            a=find(a); b=find(b); if(a==b) return;
-            if(r[a]<r[b]) {int t=a; a=b; b=t;}
-            p[b]=a; if(r[a]==r[b]) r[a]++;
-        }
+class Solution {
+    int[] parent, size;
+    Map<Integer, PriorityQueue<Integer>> mp = new HashMap<>();
+
+    int findParent(int node) {
+        if (parent[node] == node) return node;
+        return parent[node] = findParent(parent[node]);
     }
 
+    void Union(int u, int v) {
+        int up = findParent(u);
+        int vp = findParent(v);
 
+        if (up == vp) return;
+
+        if (size[up] > size[vp]) {
+            size[up] += size[vp];
+            parent[vp] = up;
+            PriorityQueue<Integer> pqV = mp.get(vp);
+            PriorityQueue<Integer> pqU = mp.get(up);
+            while (!pqV.isEmpty()) pqU.offer(pqV.poll());
+        } else {
+            size[vp] += size[up];
+            parent[up] = vp;
+            PriorityQueue<Integer> pqU = mp.get(up);
+            PriorityQueue<Integer> pqV = mp.get(vp);
+            while (!pqU.isEmpty()) pqV.offer(pqU.poll());
+        }
+    }
 
     public int[] processQueries(int c, int[][] connections, int[][] queries) {
-        DSU dsu = new DSU(c);
-        for (int[] e: connections) dsu.union(e[0], e[1]);
+        parent = new int[c];
+        size = new int[c];
+        boolean[] offline = new boolean[c];
 
-        // map root -> index 0..m-1
-        Map<Integer,Integer> rootIdx = new HashMap<>();
-        int idx = 0;
-        for (int i=1;i<=c;i++) {
-            int r = dsu.find(i);
-            if (!rootIdx.containsKey(r)) rootIdx.put(r, idx++);
+        for (int i = 0; i < c; i++) {
+            parent[i] = i;
+            size[i] = 1;
+            PriorityQueue<Integer> pq = new PriorityQueue<>();
+            pq.offer(i);
+            mp.put(i, pq);
         }
 
-        @SuppressWarnings("unchecked")
-        TreeSet<Integer>[] compSets = new TreeSet[idx];
-        for (int i=0;i<idx;i++) compSets[i] = new TreeSet<>();
-
-        int[] compOf = new int[c+1];
-        for (int i=1;i<=c;i++) {
-            int ci = rootIdx.get(dsu.find(i));
-            compOf[i] = ci;
-            compSets[ci].add(i); // initially all online
+        for (int[] conn : connections) {
+            int u = conn[0] - 1, v = conn[1] - 1;
+            Union(u, v);
         }
 
-        boolean[] online = new boolean[c+1];
-        Arrays.fill(online, true);
+        List<Integer> ans = new ArrayList<>();
 
-        List<Integer> out = new ArrayList<>();
-        for (int[] q: queries) {
-            int type = q[0], x = q[1];
+        for (int[] q : queries) {
+            int type = q[0];
+            int node = q[1] - 1;
+
             if (type == 1) {
-                if (online[x]) {
-                    out.add(x);
-                } else {
-                    TreeSet<Integer> set = compSets[compOf[x]];
-                    out.add(set.isEmpty() ? -1 : set.first());
+                if (!offline[node]) {
+                    ans.add(node + 1);
+                    continue;
                 }
-            } else { // type == 2
-                if (online[x]) {
-                    online[x] = false;
-                    compSets[compOf[x]].remove(x);
-                }
+                int par = findParent(node);
+                PriorityQueue<Integer> pq = mp.get(par);
+                while (!pq.isEmpty() && offline[pq.peek()]) pq.poll();
+                ans.add(pq.isEmpty() ? -1 : pq.peek() + 1);
+            } else {
+                offline[node] = true;
             }
         }
-        return out.stream().mapToInt(Integer::intValue).toArray();
-}
+
+        return ans.stream().mapToInt(i -> i).toArray();
     }
+}
