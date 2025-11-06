@@ -10,6 +10,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/harshithsaiv/DSA/tree/master/0141-linked-list-cycle) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/harshithsaiv/DSA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
@@ -31,6 +32,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0500-keyboard-row](https://github.com/harshithsaiv/DSA/tree/master/0500-keyboard-row) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/harshithsaiv/DSA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0935-orderly-queue](https://github.com/harshithsaiv/DSA/tree/master/0935-orderly-queue) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
