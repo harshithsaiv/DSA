@@ -104,6 +104,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshithsaiv/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -253,6 +254,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 ## Simulation
 |  |
@@ -287,6 +289,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/harshithsaiv/DSA/tree/master/2249-count-the-hidden-sequences) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3310-count-the-number-of-houses-at-a-certain-distance-ii](https://github.com/harshithsaiv/DSA/tree/master/3310-count-the-number-of-houses-at-a-certain-distance-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Tree
@@ -371,6 +374,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Binary Tree
 |  |
 | ------- |
@@ -458,6 +462,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshithsaiv/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshithsaiv/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshithsaiv/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -484,6 +489,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
