@@ -222,6 +222,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/harshithsaiv/DSA/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
@@ -478,6 +479,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harshithsaiv/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -587,4 +589,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/harshithsaiv/DSA/tree/master/0324-wiggle-sort-ii) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
