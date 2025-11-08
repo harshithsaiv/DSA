@@ -9,6 +9,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/harshithsaiv/DSA/tree/master/0141-linked-list-cycle) |
+| [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/harshithsaiv/DSA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -66,6 +67,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
+| [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/harshithsaiv/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
@@ -246,6 +248,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshithsaiv/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/harshithsaiv/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
@@ -272,6 +275,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0155-min-stack](https://github.com/harshithsaiv/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithsaiv/DSA/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -414,6 +418,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithsaiv/DSA/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
