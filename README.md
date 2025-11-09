@@ -208,6 +208,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1817-calculate-money-in-leetcode-bank](https://github.com/harshithsaiv/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
+| [2288-count-operations-to-obtain-zero](https://github.com/harshithsaiv/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harshithsaiv/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshithsaiv/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -267,6 +268,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/harshithsaiv/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/harshithsaiv/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
