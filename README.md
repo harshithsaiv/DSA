@@ -116,6 +116,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshithsaiv/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3632-button-with-longest-push-time](https://github.com/harshithsaiv/DSA/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshithsaiv/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshithsaiv/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshithsaiv/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
@@ -262,6 +264,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -284,6 +287,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Data Stream
 |  |
 | ------- |
@@ -426,6 +430,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0503-next-greater-element-ii](https://github.com/harshithsaiv/DSA/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
