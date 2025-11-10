@@ -144,6 +144,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1905-design-authentication-manager](https://github.com/harshithsaiv/DSA/tree/master/1905-design-authentication-manager) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshithsaiv/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
@@ -240,6 +241,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1905-design-authentication-manager](https://github.com/harshithsaiv/DSA/tree/master/1905-design-authentication-manager) |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [3678-design-task-manager](https://github.com/harshithsaiv/DSA/tree/master/3678-design-task-manager) |
 ## Ordered Set
@@ -549,6 +551,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshithsaiv/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/harshithsaiv/DSA/tree/master/0141-linked-list-cycle) |
+| [1905-design-authentication-manager](https://github.com/harshithsaiv/DSA/tree/master/1905-design-authentication-manager) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Biconnected Component
 |  |
@@ -606,4 +609,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1905-design-authentication-manager](https://github.com/harshithsaiv/DSA/tree/master/1905-design-authentication-manager) |
 <!---LeetCode Topics End-->
