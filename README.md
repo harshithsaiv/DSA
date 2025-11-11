@@ -32,6 +32,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0205-isomorphic-strings](https://github.com/harshithsaiv/DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/harshithsaiv/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/harshithsaiv/DSA/tree/master/0409-longest-palindrome) |
+| [0474-ones-and-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/harshithsaiv/DSA/tree/master/0500-keyboard-row) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -72,6 +73,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/harshithsaiv/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0474-ones-and-zeroes) |
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/harshithsaiv/DSA/tree/master/0500-keyboard-row) |
@@ -227,6 +229,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshithsaiv/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/harshithsaiv/DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
+| [0474-ones-and-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0474-ones-and-zeroes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/harshithsaiv/DSA/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
