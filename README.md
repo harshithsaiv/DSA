@@ -43,6 +43,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshithsaiv/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/harshithsaiv/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/harshithsaiv/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -272,6 +273,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshithsaiv/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
@@ -549,6 +551,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0383-ransom-note](https://github.com/harshithsaiv/DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshithsaiv/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Bitmask
 |  |
 | ------- |
