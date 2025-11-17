@@ -94,6 +94,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1293-three-consecutive-odds](https://github.com/harshithsaiv/DSA/tree/master/1293-three-consecutive-odds) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/harshithsaiv/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/harshithsaiv/DSA/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
