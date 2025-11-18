@@ -89,6 +89,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/harshithsaiv/DSA/tree/master/0907-koko-eating-bananas) |
+| [0994-prison-cells-after-n-days](https://github.com/harshithsaiv/DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -150,6 +151,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
+| [0994-prison-cells-after-n-days](https://github.com/harshithsaiv/DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -216,6 +218,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [0935-orderly-queue](https://github.com/harshithsaiv/DSA/tree/master/0935-orderly-queue) |
+| [0994-prison-cells-after-n-days](https://github.com/harshithsaiv/DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harshithsaiv/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -512,6 +515,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
+| [0994-prison-cells-after-n-days](https://github.com/harshithsaiv/DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
