@@ -93,6 +93,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
+| [1095-two-city-scheduling](https://github.com/harshithsaiv/DSA/tree/master/1095-two-city-scheduling) |
 | [1293-three-consecutive-odds](https://github.com/harshithsaiv/DSA/tree/master/1293-three-consecutive-odds) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -181,6 +182,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0935-orderly-queue](https://github.com/harshithsaiv/DSA/tree/master/0935-orderly-queue) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
+| [1095-two-city-scheduling](https://github.com/harshithsaiv/DSA/tree/master/1095-two-city-scheduling) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -276,6 +278,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/harshithsaiv/DSA/tree/master/1095-two-city-scheduling) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/harshithsaiv/DSA/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
