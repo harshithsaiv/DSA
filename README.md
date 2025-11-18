@@ -84,6 +84,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0560-subarray-sum-equals-k](https://github.com/harshithsaiv/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/harshithsaiv/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
 | [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
