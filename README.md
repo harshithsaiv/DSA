@@ -42,6 +42,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshithsaiv/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshithsaiv/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -160,6 +161,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1905-design-authentication-manager](https://github.com/harshithsaiv/DSA/tree/master/1905-design-authentication-manager) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshithsaiv/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshithsaiv/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshithsaiv/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -329,6 +331,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithsaiv/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshithsaiv/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/harshithsaiv/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -528,6 +531,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0994-prison-cells-after-n-days](https://github.com/harshithsaiv/DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshithsaiv/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/harshithsaiv/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/harshithsaiv/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
