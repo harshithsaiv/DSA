@@ -114,6 +114,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/harshithsaiv/DSA/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/harshithsaiv/DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshithsaiv/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -195,6 +196,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/harshithsaiv/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/harshithsaiv/DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshithsaiv/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
@@ -292,6 +294,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/harshithsaiv/DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2636-maximum-subsequence-score](https://github.com/harshithsaiv/DSA/tree/master/2636-maximum-subsequence-score) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshithsaiv/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -419,6 +422,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshithsaiv/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/harshithsaiv/DSA/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshithsaiv/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
