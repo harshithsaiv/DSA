@@ -232,6 +232,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harshithsaiv/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/harshithsaiv/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2037-count-square-sum-triples](https://github.com/harshithsaiv/DSA/tree/master/2037-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/harshithsaiv/DSA/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harshithsaiv/DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -654,5 +655,6 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/harshithsaiv/DSA/tree/master/2037-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshithsaiv/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
