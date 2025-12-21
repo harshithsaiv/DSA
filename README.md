@@ -362,6 +362,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0450-delete-node-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshithsaiv/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/harshithsaiv/DSA/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
@@ -390,6 +391,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0538-convert-bst-to-greater-tree](https://github.com/harshithsaiv/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/harshithsaiv/DSA/tree/master/0687-longest-univalue-path) |
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
@@ -446,6 +448,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0450-delete-node-in-a-bst](https://github.com/harshithsaiv/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshithsaiv/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/harshithsaiv/DSA/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/harshithsaiv/DSA/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
