@@ -671,4 +671,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/harshithsaiv/DSA/tree/master/2037-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshithsaiv/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshithsaiv/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
