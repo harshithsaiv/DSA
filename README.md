@@ -79,6 +79,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0324-wiggle-sort-ii](https://github.com/harshithsaiv/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/harshithsaiv/DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/harshithsaiv/DSA/tree/master/0500-keyboard-row) |
