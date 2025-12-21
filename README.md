@@ -108,6 +108,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2058-concatenation-of-array](https://github.com/harshithsaiv/DSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/harshithsaiv/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
@@ -307,6 +308,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0495-teemo-attacking](https://github.com/harshithsaiv/DSA/tree/master/0495-teemo-attacking) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/harshithsaiv/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/harshithsaiv/DSA/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshithsaiv/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/harshithsaiv/DSA/tree/master/2288-count-operations-to-obtain-zero) |
