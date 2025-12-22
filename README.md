@@ -39,6 +39,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0793-swap-adjacent-in-lr-string](https://github.com/harshithsaiv/DSA/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0935-orderly-queue](https://github.com/harshithsaiv/DSA/tree/master/0935-orderly-queue) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/harshithsaiv/DSA/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/harshithsaiv/DSA/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/harshithsaiv/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/harshithsaiv/DSA/tree/master/1894-merge-strings-alternately) |
@@ -95,6 +96,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0907-koko-eating-bananas](https://github.com/harshithsaiv/DSA/tree/master/0907-koko-eating-bananas) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/harshithsaiv/DSA/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0994-prison-cells-after-n-days](https://github.com/harshithsaiv/DSA/tree/master/0994-prison-cells-after-n-days) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/harshithsaiv/DSA/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/harshithsaiv/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -260,6 +262,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0474-ones-and-zeroes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/harshithsaiv/DSA/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/harshithsaiv/DSA/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
