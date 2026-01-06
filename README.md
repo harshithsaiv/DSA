@@ -61,6 +61,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0039-combination-sum](https://github.com/harshithsaiv/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/harshithsaiv/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/harshithsaiv/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/harshithsaiv/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
@@ -239,6 +240,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshithsaiv/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/harshithsaiv/DSA/tree/master/0066-plus-one) |
 | [0264-ugly-number-ii](https://github.com/harshithsaiv/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/harshithsaiv/DSA/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/harshithsaiv/DSA/tree/master/0556-next-greater-element-iii) |
