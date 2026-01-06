@@ -1,47 +1,33 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
+    public void dfs(TreeNode node, int level, List<Integer> sumOfNodesAtLevel) {
+        if (node == null) {
+            return;
+        }
+
+        if (sumOfNodesAtLevel.size() == level) {
+            sumOfNodesAtLevel.add(node.val);
+        } else {
+            sumOfNodesAtLevel.set(level, sumOfNodesAtLevel.get(level) + node.val);
+        }
+
+        dfs(node.left, level + 1, sumOfNodesAtLevel);
+        dfs(node.right, level + 1, sumOfNodesAtLevel);
+    }
+
     public int maxLevelSum(TreeNode root) {
-        
-        if (root == null) return 0;
+        List<Integer> sumOfNodesAtLevel = new ArrayList<>();
+        dfs(root, 0, sumOfNodesAtLevel);
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
+        int maxSum = Integer.MIN_VALUE;
+        int ans = 0;
 
-        int level = 0;
-        int ansLevel = 1;
-        long maxSum = Long.MIN_VALUE; 
-        while (!q.isEmpty()) {
-            level++;
-            int size = q.size();
-            long sum = 0;
-
-            for (int i = 0; i < size; i++) {
-                TreeNode node = q.poll();
-                sum += node.val;
-
-                if (node.left != null) q.add(node.left);
-                if (node.right != null) q.add(node.right);
-            }
-
-            if (sum > maxSum) {
-                maxSum = sum;
-                ansLevel = level;
+        for (int i = 0; i < sumOfNodesAtLevel.size(); i++) {
+            if (maxSum < sumOfNodesAtLevel.get(i)) {
+                maxSum = sumOfNodesAtLevel.get(i);
+                ans = i + 1;
             }
         }
-        return ansLevel;
+
+        return ans;
     }
 }
