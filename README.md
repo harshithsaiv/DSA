@@ -272,6 +272,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0474-ones-and-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0474-ones-and-zeroes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/harshithsaiv/DSA/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/harshithsaiv/DSA/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/harshithsaiv/DSA/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/harshithsaiv/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
