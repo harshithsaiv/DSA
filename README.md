@@ -389,6 +389,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/harshithsaiv/DSA/tree/master/1493-frog-position-after-t-seconds) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Depth-First Search
@@ -421,6 +422,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/harshithsaiv/DSA/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/harshithsaiv/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/harshithsaiv/DSA/tree/master/1493-frog-position-after-t-seconds) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/harshithsaiv/DSA/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2206-detonate-the-maximum-bombs](https://github.com/harshithsaiv/DSA/tree/master/2206-detonate-the-maximum-bombs) |
@@ -476,6 +478,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Iterator
 |  |
 | ------- |
