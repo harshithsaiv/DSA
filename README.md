@@ -170,6 +170,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0594-longest-harmonious-subsequence](https://github.com/harshithsaiv/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0797-rabbits-in-forest](https://github.com/harshithsaiv/DSA/tree/master/0797-rabbits-in-forest) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshithsaiv/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-prison-cells-after-n-days](https://github.com/harshithsaiv/DSA/tree/master/0994-prison-cells-after-n-days) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/harshithsaiv/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1074-high-five](https://github.com/harshithsaiv/DSA/tree/master/1074-high-five) |
@@ -384,6 +385,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0687-longest-univalue-path](https://github.com/harshithsaiv/DSA/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshithsaiv/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -415,6 +417,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0881-loud-and-rich](https://github.com/harshithsaiv/DSA/tree/master/0881-loud-and-rich) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshithsaiv/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
@@ -473,6 +476,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0687-longest-univalue-path](https://github.com/harshithsaiv/DSA/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/harshithsaiv/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshithsaiv/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/harshithsaiv/DSA/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshithsaiv/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -529,6 +533,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0684-redundant-connection](https://github.com/harshithsaiv/DSA/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/harshithsaiv/DSA/tree/master/0770-couples-holding-hands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/harshithsaiv/DSA/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshithsaiv/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/harshithsaiv/DSA/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/harshithsaiv/DSA/tree/master/1275-validate-binary-tree-nodes) |
