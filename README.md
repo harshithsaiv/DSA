@@ -66,6 +66,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0075-sort-colors](https://github.com/harshithsaiv/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/harshithsaiv/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/harshithsaiv/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/harshithsaiv/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshithsaiv/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
@@ -265,6 +266,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/harshithsaiv/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/harshithsaiv/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshithsaiv/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshithsaiv/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -340,6 +342,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshithsaiv/DSA/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/harshithsaiv/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/harshithsaiv/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/harshithsaiv/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
@@ -499,6 +502,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/harshithsaiv/DSA/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/harshithsaiv/DSA/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/harshithsaiv/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithsaiv/DSA/tree/master/0503-next-greater-element-ii) |
@@ -510,6 +514,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/harshithsaiv/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/harshithsaiv/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/harshithsaiv/DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
