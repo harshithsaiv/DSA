@@ -147,6 +147,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshithsaiv/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3632-button-with-longest-push-time](https://github.com/harshithsaiv/DSA/tree/master/3632-button-with-longest-push-time) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/harshithsaiv/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3763-separate-squares-i](https://github.com/harshithsaiv/DSA/tree/master/3763-separate-squares-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
@@ -461,6 +462,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2549-next-greater-element-iv](https://github.com/harshithsaiv/DSA/tree/master/2549-next-greater-element-iv) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/harshithsaiv/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/harshithsaiv/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3763-separate-squares-i](https://github.com/harshithsaiv/DSA/tree/master/3763-separate-squares-i) |
 ## Binary Tree
 |  |
 | ------- |
