@@ -2,39 +2,38 @@ import java.util.*;
 
 class Solution {
     public int maximizeSquareArea(int m, int n, int[] hFences, int[] vFences) {
-        long[] h = augmentFences(m, hFences);
-        long[] v = augmentFences(n, vFences);
-        
-        Set<Long> hGaps = new HashSet<>();
-        for (int i = 0; i < h.length; i++) {
-            for (int j = i + 1; j < h.length; j++) {
-                hGaps.add(Math.abs(h[i] - h[j]));
+        List<Integer> hList = new ArrayList<>();
+        for (int h : hFences) hList.add(h);
+        hList.add(1);
+        hList.add(m);
+
+        List<Integer> vList = new ArrayList<>();
+        for (int v : vFences) vList.add(v);
+        vList.add(1);
+        vList.add(n);
+
+
+        Set<Integer> hGaps = new HashSet<>();
+        for (int i = 0; i < hList.size(); i++) {
+            for (int j = i + 1; j < hList.size(); j++) {
+                hGaps.add(Math.abs(hList.get(i) - hList.get(j)));
             }
         }
 
         long maxSide = -1;
-        // Check all possible vertical gaps
-        for (int i = 0; i < v.length; i++) {
-            for (int j = i + 1; j < v.length; j++) {
-                long gap = Math.abs(v[i] - v[j]);
+        for (int i = 0; i < vList.size(); i++) {
+            for (int j = i + 1; j < vList.size(); j++) {
+                int gap = Math.abs(vList.get(i) - vList.get(j));
                 if (hGaps.contains(gap)) {
-                    maxSide = Math.max(maxSide, gap);
+                    maxSide = Math.max(maxSide, (long) gap);
                 }
             }
         }
 
+        
         if (maxSide == -1) return -1;
-
-        // Return area modulo 10^9 + 7
+        
         long MOD = 1_000_000_007;
         return (int) ((maxSide * maxSide) % MOD);
-    }
-
-    private long[] augmentFences(int boundary, int[] fences) {
-        long[] augmented = new long[fences.length + 2];
-        for (int i = 0; i < fences.length; i++) augmented[i] = fences[i];
-        augmented[fences.length] = 1;
-        augmented[fences.length + 1] = boundary;
-        return augmented;
     }
 }
