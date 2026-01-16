@@ -144,6 +144,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshithsaiv/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/harshithsaiv/DSA/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/harshithsaiv/DSA/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshithsaiv/DSA/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshithsaiv/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshithsaiv/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -189,6 +190,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshithsaiv/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshithsaiv/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/harshithsaiv/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshithsaiv/DSA/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshithsaiv/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshithsaiv/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -710,6 +712,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/harshithsaiv/DSA/tree/master/2037-count-square-sum-triples) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/harshithsaiv/DSA/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshithsaiv/DSA/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshithsaiv/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Database
 |  |
