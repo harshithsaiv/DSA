@@ -108,6 +108,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1095-two-city-scheduling](https://github.com/harshithsaiv/DSA/tree/master/1095-two-city-scheduling) |
 | [1284-four-divisors](https://github.com/harshithsaiv/DSA/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/harshithsaiv/DSA/tree/master/1293-three-consecutive-odds) |
+| [1311-largest-magic-square](https://github.com/harshithsaiv/DSA/tree/master/1311-largest-magic-square) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/harshithsaiv/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/harshithsaiv/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -369,6 +370,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithsaiv/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithsaiv/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1311-largest-magic-square](https://github.com/harshithsaiv/DSA/tree/master/1311-largest-magic-square) |
 | [1477-product-of-the-last-k-numbers](https://github.com/harshithsaiv/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshithsaiv/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
@@ -527,6 +529,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [0200-number-of-islands](https://github.com/harshithsaiv/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/harshithsaiv/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/harshithsaiv/DSA/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1311-largest-magic-square](https://github.com/harshithsaiv/DSA/tree/master/1311-largest-magic-square) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshithsaiv/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/harshithsaiv/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
