@@ -48,6 +48,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshithsaiv/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/harshithsaiv/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harshithsaiv/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshithsaiv/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/harshithsaiv/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/harshithsaiv/DSA/tree/master/3617-find-the-original-typed-string-i) |
@@ -145,6 +146,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/harshithsaiv/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/harshithsaiv/DSA/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/harshithsaiv/DSA/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshithsaiv/DSA/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshithsaiv/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -291,6 +293,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/harshithsaiv/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1881-closest-subsequence-sum](https://github.com/harshithsaiv/DSA/tree/master/1881-closest-subsequence-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Design
 |  |
@@ -597,6 +600,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/harshithsaiv/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Queue
 |  |
 | ------- |
@@ -680,6 +684,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harshithsaiv/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/harshithsaiv/DSA/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/harshithsaiv/DSA/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Backtracking
 |  |
@@ -729,4 +734,8 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/harshithsaiv/DSA/tree/master/3775-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
