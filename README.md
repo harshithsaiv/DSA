@@ -728,6 +728,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/harshithsaiv/DSA/tree/master/0175-combine-two-tables) |
+| [1179-game-play-analysis-i](https://github.com/harshithsaiv/DSA/tree/master/1179-game-play-analysis-i) |
 ## Segment Tree
 |  |
 | ------- |
