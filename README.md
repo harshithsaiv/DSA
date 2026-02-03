@@ -149,6 +149,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/harshithsaiv/DSA/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/harshithsaiv/DSA/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/harshithsaiv/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/harshithsaiv/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/harshithsaiv/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/harshithsaiv/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -541,6 +542,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2200-stamping-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2200-stamping-the-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/harshithsaiv/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/harshithsaiv/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/harshithsaiv/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Breadth-First Search
 |  |
 | ------- |
