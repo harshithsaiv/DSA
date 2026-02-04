@@ -160,6 +160,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/harshithsaiv/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/harshithsaiv/DSA/tree/master/3863-power-grid-maintenance) |
 | [3952-trionic-array-i](https://github.com/harshithsaiv/DSA/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/harshithsaiv/DSA/tree/master/3956-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -298,6 +299,7 @@ Keeping track of the problems I am solving to keep me motivated. !!
 | [2262-solving-questions-with-brainpower](https://github.com/harshithsaiv/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/harshithsaiv/DSA/tree/master/3618-find-the-original-typed-string-ii) |
+| [3956-trionic-array-ii](https://github.com/harshithsaiv/DSA/tree/master/3956-trionic-array-ii) |
 ## Design
 |  |
 | ------- |
